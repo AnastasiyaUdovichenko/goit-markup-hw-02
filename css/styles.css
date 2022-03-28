@@ -1,0 +1,92 @@
+:root {
+  /* --body-background-color: #ffffff; */
+  --logo-web-color: #2196f3
+  --logo-studio-color: #000000;
+  --nav-text-color: #212121;
+  --nav-hover-color: #2196f3;
+  --header-contacts-color: #ffffff;
+  --header-email-color: #2196f3;
+  --header-phone-color: #757575;
+  --footer-background-color: #2f303a;
+  --street-color: #ffffff;
+  --footer-email-color: rgba (255, 255, 255, 0.6)
+  --footer-phone-color: rgba (255, 255, 255, 0.6)
+}
+.menu-link {
+  color: #212121;
+}
+.menu-link:hover {
+  color: #2196f3;
+}
+body {
+  background-color: #e5e5e5;
+  font-family: Roboto, sans-serif;
+}
+/* Logo */
+.logo {
+  font-family: Raleway; cursive
+  font-size: 26px;
+  letter-spacing: 0.03em;
+  line-height: 1,19;
+}
+.logo-web {
+font-family: Raleway;
+font-style: normal;
+font-weight: bold;
+font-size: 26px;
+line-height: 31px;
+letter-spacing: 0.03em;
+color: #2196F3;
+}
+.logo-studio {
+font-family: Raleway;
+font-style: normal;
+font-weight: bold;
+font-size: 26px;
+line-height: 31px;
+letter-spacing: 0.03em;
+color: #000000;
+}
+
+.mail {color: #757575;}
+.mail:hover {color: #2196f3;}
+.mail 
+{font-family: Roboto;
+font-style: normal;
+font-weight: 500;
+font-size: 14px;
+line-height: 16px;
+letter-spacing: 0.02em;}
+
+.tel {color: #757575;}
+.tel:hover {color: #2196f3;}
+{font-family: Roboto;
+font-style: normal;
+font-weight: 500;
+font-size: 14px;
+line-height: 16px;
+letter-spacing: 0.02em;
+color: #757575;
+}
+.hero {
+font-family: Roboto;
+font-style: normal;
+font-weight: 900;
+font-size: 44px;
+line-height: 60px;
+text-align: center;
+letter-spacing: 0.06em;
+text-transform: uppercase;
+color: #FFFFFF;
+}
+.button {
+font-family: Roboto;
+font-style: normal;
+font-weight: bold;
+font-size: 16px;
+line-height: 30px;
+display: flex;
+align-items: center;
+text-align: center;
+letter-spacing: 0.06em;
+color: #FFFFFF;}
